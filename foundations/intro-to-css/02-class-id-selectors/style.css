@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.red {
+    background-color: #FFB7CE;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.head {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgba(40, 154, 86, 0.493);
+    font-size: 24px;
+    font-weight: bold;
+}
